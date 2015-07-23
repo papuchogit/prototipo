@@ -1,7 +1,7 @@
 ﻿Imports Proyecto3capa
 Imports Proyecto3capaTableAdapters
 
-
+nuevamente ponermos un error voluntariamente
 
 <System.ComponentModel.DataObject()> _
 Public Class docenteBLL
