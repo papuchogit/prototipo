@@ -1,6 +1,7 @@
 ﻿Imports Proyecto3capa
 Imports Proyecto3capaTableAdapters
 
+aqui hay un eeror voluntario de Git
 
 <System.ComponentModel.DataObject()> _
 Public Class docenteBLL
